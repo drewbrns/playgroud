@@ -118,3 +118,7 @@ class SimpleCacheUserDefaultsWrapperTests: XCTestCase {
     }
 
 }
+
+// Run Test
+
+SimpleCacheUserDefaultsWrapperTests.defaultTestSuite.run()
